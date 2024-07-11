@@ -4,4 +4,4 @@ Pillow==8.3.1
 torch==1.8.1  # Downgrade to ensure compatibility
 torchvision==0.9.1  # Adjust to match torch version
 scikit-learn==0.24.2
-numpy==1.21.0  # Specify a version known to work
+numpy==2.0.0  # Specify a version known to work
